@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+HelpCaptureImage	main.cpp	/^void HelpCaptureImage(void)$/;"	f	signature:(void)
+HelpMain	main.cpp	/^void HelpMain(void)$/;"	f	signature:(void)
+HelpSelectCamera	main.cpp	/^void HelpSelectCamera(void)$/;"	f	signature:(void)
+camera_device_index	main.cpp	/^int camera_device_index = 0;$/;"	v
+capture_color_image	main.cpp	/^Mat capture_color_image;$/;"	v
+capture_gray_image	main.cpp	/^Mat capture_gray_image;$/;"	v
+frame	main.cpp	/^Mat frame;$/;"	v
+main	main.cpp	/^int main(void)$/;"	f	signature:(void)
+vehicle_detection_system	main.cpp	/^Mat vehicle_detection_system(Mat& input_image)$/;"	f	signature:(Mat& input_image)
+vehicle_detection_system	main.cpp	/^Mat vehicle_detection_system(Mat& input_image);$/;"	p	file:	signature:(Mat& input_image)
